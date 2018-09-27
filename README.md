@@ -1,6 +1,4 @@
-## wt-vehicle-list
-
-War Thunder Vehicle list generator
+## War Thunder Vehicle list generator
 
 A few batch scripts that allow you to generate vehicle and location lists for War Thunder.
 
@@ -17,7 +15,5 @@ A few batch scripts that allow you to generate vehicle and location lists for Wa
 ### Features
 
 - Lists planes, tanks and ships
-
 - Automatically detects for helicopters. If there are any, a separate list for them will be created
-
 - Also lists locations
