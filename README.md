@@ -1,6 +1,6 @@
 ## War Thunder Vehicle list generator
 
-A few batch scripts that allow you to generate vehicle and location lists for War Thunder.
+A few batch scripts that allow you to generate vehicle and location lists for War Thunder. These can be used for automating a part of the mission-creation process, for example.
 
 ## Installation
 
