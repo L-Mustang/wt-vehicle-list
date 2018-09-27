@@ -1,7 +1,7 @@
 # wt-vehicle-list
-War Thunder Vehicle list
+War Thunder Vehicle list generator
 
-A few batch scripts that allow you to generate a vehicle list for War Thunder.
+A few batch scripts that allow you to generate vehicle and location lists for War Thunder.
 
 Instructions:
 
