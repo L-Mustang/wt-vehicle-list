@@ -4,7 +4,7 @@ A few batch scripts that allow you to generate vehicle and location lists for Wa
 
 ## Installation
 
-1. Get an extracted copy of aces.vromfs.bin using [wt-tools by Kelly](https://github.com/klensy/wt-tools)
+1. Get an extracted copy of aces.vromfs.bin using [wt-tools by Klensy](https://github.com/klensy/wt-tools)
 2. Place the batch files in the same folder where the aces.vromfs.bin_u folder containing extracted files is
 
 ### Usage
